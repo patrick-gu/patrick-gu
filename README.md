@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hello! 👋
+
+I'm Patrick!
+
+Currently, I'm working on various projects in the [Rust](https://github.com/rust-lang/rust) programming language.
+
+I enjoy learning about computers and math, and hope to continue study programming in the future.
 
 <!--
 **patrick-gu/patrick-gu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
