@@ -6,6 +6,10 @@ Currently, I'm working on various projects in the [Rust](https://github.com/rust
 
 I enjoy learning about computers and math, and hope to continue studying programming in the future.
 
+## Contact
+
+You can reach me by [email](mailto:patrick@patrickgu.ca).
+
 <!--
 **patrick-gu/patrick-gu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
