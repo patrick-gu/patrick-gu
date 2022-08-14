@@ -1,8 +1,8 @@
 # Hello! 👋
 
-I'm Patrick!
+I'm Patrick! I'm a secondary school student from Kamloops, Canada.
 
-Currently, I'm working on various projects in the [Rust](https://github.com/rust-lang/rust) programming language.
+Currently, I'm working on various projects. Some of the languages I use are Rust, JavaScript and Typescript, C++, Python, Java and Kotlin, and x86 assembly.
 
 I enjoy learning about computers and math, and hope to continue studying programming in the future.
 
