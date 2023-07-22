@@ -1,12 +1,11 @@
-# Hello! 👋
+# Hello, I'm Patrick! 👋
 
-I'm Patrick! I'm a secondary school student from Kamloops, Canada.
+- 👋 I'm a first-year Software Engineering student at the University of Waterloo.
+- 🔭 Right now, I'm most interested in algorithms for optimization and computer vision.
+- 🦀 My favourite programming languages are Rust, C++, and Swift.
+- 👯 I'd love to collaborate on interesting projects!
 
-Currently, I'm working on various projects. Some of the languages I use are Rust, JavaScript and Typescript, C++, Python, Java and Kotlin, and x86 assembly.
-
-I enjoy learning about computers and math, and hope to continue studying programming in the future.
-
-## Contact
+## Contact 📫
 
 You can reach me by [email](mailto:patrick@patrickgu.ca).
 
