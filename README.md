@@ -1,7 +1,7 @@
 # Hello, I'm Patrick! 👋
 
 - 👋 I'm a first-year Software Engineering student at the University of Waterloo.
-- 🔭 Right now, I'm most interested in algorithms for optimization and computer vision.
+- 🔭 Right now, I'm most interested in optimization and artificial intelligence.
 - 🦀 My favourite programming languages are Rust, C++, and Swift.
 - 👯 I'd love to collaborate on interesting projects!
 
